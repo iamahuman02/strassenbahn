@@ -1,0 +1,24 @@
+Tag                                 Bedeutung
+-----------------------------------------------------------------------------------------------------------------------
+nav                                 Navigation
+meta                                Informationen zu anderen Dateien (Metainformationen)
+title                               Titel
+head                                enthält Kopfdaten einer Website
+body                                enthält Inhalt einer Website
+div                                 Einleitung in ein Block-Element; mehrere Elemente können eingeschlossen werden
+p                                   paragraph; Verwendung bei Block-Elementen
+section                             Gruppe von Inhalten
+header                              Gruppe aus h1 und p
+li                                  list item (Listeneintrag)
+img                                 image (Bild)
+h1 - h6                             Überschriften; h1 = Höchste, h6 = Niedrigste
+footer                              enthält Impressum, Autor und evtl. Urheberrechtshinweise
+button                              anklickbare Schaltflächen
+script                              enthält Anweisungen der Script-Sprache; befindet sich im head
+a                                   enthält einen Verweis
+ul                                  leitet Aufzählungsliste ein; enthält li
+link                                Festlegung der Beziehung zu anderen Elementen (href)
+span                                enthält Inline-Bereich
+br                                  break (Zeilenumbruch)
+i                                   enthält einen Textbereich
+form                                Formular
